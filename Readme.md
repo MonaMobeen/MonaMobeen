@@ -7,8 +7,8 @@
 
 ## 😎  About Me 
 
-- 🌺 I have done quite a lot of projects of **React Responsive Design**
-- 💎 I’m currently learning **Data Structures and Algorithms.**
+- 🌺 I have contribute in many projects of **React and full stack application.**
+- 💎 I’m currently broadening knowledge in **Data Structures and Algorithms** for long term play.
 - 🌺 I’m currently working on  **Real Time projects.**
 - 💎 All of my projects are available at **[My Portfolio](https://github.com/MonaMobeen)**
 
