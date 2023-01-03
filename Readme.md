@@ -5,7 +5,7 @@
 <h3 align="center">Mern Stack Developer.</h3>
 
 
-## 😎  About Me 
+## 😎  Little about myself 
 
 - 🌺 I have contribute in many projects of **React and full stack application.**
 - 💎 I’m currently broadening knowledge in **Data Structures and Algorithms** for long term play.
@@ -19,7 +19,7 @@
 
 
 
-<h2>⚡Some Tech Highlights</h2>
+<h2>⚡**Some of my Tech Highlights**</h2>
 
 
 <table width="100">
