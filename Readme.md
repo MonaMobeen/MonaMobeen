@@ -19,7 +19,7 @@
 
 
 
-<h2>⚡**Some of my Tech Highlights**</h2>
+<h2>⚡Some of my Tech Highlights</h2>
 
 
 <table width="100">
