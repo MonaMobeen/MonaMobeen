@@ -7,8 +7,8 @@
 
 ## 😎  Little about myself 
 
-- 🌺 I have contribute in many projects of **React and full stack application.**
-- 💎 I’m currently broadening knowledge in **Data Structures and Algorithms** for long term play.
+- 🌺 I have contributed in many projects of **React and full stack application.**
+- 💎 I’m broadening my knowledge in **Data Structures and Algorithms** for long term play.
 - 🌺 I’m currently working on  **Real Time projects.**
 - 💎 All of my projects are available at **[My Portfolio](https://github.com/MonaMobeen)**
 
