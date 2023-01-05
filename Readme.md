@@ -15,7 +15,7 @@
 - 👩🏽‍🤝‍👩🏻  I’m looking to collaborate with other content **developers**.
 
 
-- 🌟  Fun fact **I play games and participate in extra curricular activities.**
+- 🌟  Fun factor **I play games and participate in extra curricular activities.**
 
 
 
