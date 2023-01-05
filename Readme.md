@@ -91,7 +91,7 @@
 <br/>
 
  <a href="https://github.com/MonaMobeen">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MonaMobeen's streak"width = "90%" src="https://streak-stats.demolab.com?user=MonaMobeen&theme=radical&=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MonaMobeen's streak"width = "50%" src="https://streak-stats.demolab.com?user=MonaMobeen&theme=radical&=true&stroke=0000&background=060A0CD0"/>
     </a>
     </p>
  
