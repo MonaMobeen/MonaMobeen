@@ -27,7 +27,10 @@
 <a href = "https://medium.com/@monamobeen"><img src="https://img.icons8.com/color/48/000000/medium.png"/></a>
 <a href = "https://twitter.com/monaa___88/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
 <a href = "https://www.instagram.com/imona.mk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+ <a href = "https://stackoverflow.com/users/20357080/memoona-mobeen"><img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"/></a>
 <a href = "mailto:iammona.tech@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
+ <a href = "https://discord.com/channels/@me"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+ 
 </p>
 
 
