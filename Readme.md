@@ -18,6 +18,18 @@
 - 🌟  Fun factor **I play games and participate in extra curricular activities.**
 
 
+## Let's get connected🤩:
+
+<p align="center">
+
+<a href = "https://www.linkedin.com/in/monaamobeen/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.youtube.com/channel/UC3s6o9cbNm-ZRu7TxV4V2ig"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://medium.com/@monamobeen"><img src="https://img.icons8.com/color/48/000000/medium.png"/></a>
+<a href = "https://twitter.com/monaa___88/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
+<a href = "https://www.instagram.com/imona.mk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "mailto:iammona.tech@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
+</p>
+
 
 <h2>⚡Some of my Tech Highlights</h2>
 
@@ -55,19 +67,6 @@
     </td>
 </tr>    
 </table>
-
-
-## Let's get connected🤩:
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/monaamobeen/"><img src="https://img.shields.io/badge/--0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:memoonamobeen612@gmail.com"><img src="https://img.shields.io/badge/- -D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://medium.com/@monamobeen"><img src="https://img.shields.io/badge/- -E4405F?style=flat&logo=medium&logoColor=white"/></a>
-<a href="https://twitter.com/monaa___88"><img src="https://img.shields.io/badge/- -0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://leetcode.com/MonaMobeen/"><img src="https://img.shields.io/badge/- -0077B5?style=flat&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.instagram.com/its__mona7/"><img src="https://img.shields.io/badge/- -0077B5?style=flat&logo=instagram&logoColor=pin"/></a>
-</p>
 
 
 
