@@ -1,6 +1,4 @@
- 
-  <a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" height="165px"/></a> 
-
+  
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "40px">, This is Memoona Mobeen</h1>
 <h3 align="center">Mern Stack Developer.</h3>
 
@@ -23,8 +21,8 @@
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/monaamobeen/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.youtube.com/channel/UC3s6o9cbNm-ZRu7TxV4V2ig"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a
-<a href = "https://twitter.com/monaa___88/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
+<a href = "https://www.youtube.com/channel/UC3s6o9cbNm-ZRu7TxV4V2ig"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
+<a href = "https://twitter.com/monaa___88/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/imona.mk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.github.net/MonaMobeen"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "https://dribbble.com/monaamobeen"><img src="https://img.icons8.com/fluent/48/000000/dribbble.png"/></a>
@@ -35,6 +33,8 @@
 <a href = "https://discord.com/channels/@me"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 <a href = "https://www.pinterest.com/iammonatech/"><img src="https://img.icons8.com/fluent/48/000000/pinterest.png"/></a>
 </p>
+
+  <a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" height="165px"/></a> 
 
 
 <h2>⚡Some of my Tech Highlights</h2>
