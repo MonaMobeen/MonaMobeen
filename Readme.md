@@ -16,7 +16,7 @@
 - 🌟  Fun factor **I play games and participate in extra curricular activities.**
 
 
-## Let's get connected🤩:
+## Let's connect and build something amazing together!🤩:
 
 <p align="center">
 
