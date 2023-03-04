@@ -1,6 +1,6 @@
   
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "40px">, This is Memoona Mobeen</h1>
-<h3 align="center">Mern Stack Developer.</h3>
+<h3 align="center">MERN stack developer with a passion for building elegant and efficient web applications. From concept to deployment, I am dedicated to delivering exceptional results. Let's create something amazing!</h3>
 
 
 ## 😎  Little about myself 
