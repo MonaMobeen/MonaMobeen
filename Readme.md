@@ -35,7 +35,17 @@
 </p>
 
   <a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" height="165px"/></a> 
+  
+ <div align="center">
+<summary>Trophy: Hackerrank Profile Trophy</summary>
+</div>
 
+<p align="center"> 
+
+<img src="./src/cpp silver.jpg" alt="Metrics" width="47%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
+width="35%">
+
+</p>
 
 <h2>⚡Some of my Tech Highlights</h2>
 
