@@ -42,7 +42,7 @@
 
 <p align="center"> 
 
-<img src="./src/cpp silver.jpg" alt="Metrics" width="47%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
+<img src="./src/cpp goldProbSolHack.jpg" alt="Metrics" width="47%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
 width="35%">
 
 </p>
