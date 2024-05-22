@@ -1,9 +1,9 @@
   
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "40px">, This is Memoona Mobeen</h1>
-<h3 align="center">MERN stack developer passionate about building elegant and efficient web applications. From concept to deployment, I am dedicated to delivering exceptional results. Let's create something amazing!</h3>
+<h1 align="center"> I'm Memoona.</h1>
 
 
-## 😎  Little about myself 
+
+## 😎  Know Me?
 
 - 🌺 I have contributed to many projects of **React and full stack application.**
 - 💎 I’m broadening my knowledge in **Data Structures and Algorithms** for long-term play.
