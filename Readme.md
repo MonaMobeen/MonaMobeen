@@ -6,7 +6,7 @@
 ## 😎  Know Me?
 
 - 🌺 I have contributed to many projects of **React and full stack application.**
-- 💎 I’m broadening my knowledge in **Data Structures and Algorithms** for long-term play.
+- 💎 I've expanded my horizons in **Data Structures and Algorithms**.
 - 🌺 I’m currently working on  **Andriod Development.**
 - 💎 All of my projects are available at **[My Portfolio](https://github.com/MonaMobeen)**
 
