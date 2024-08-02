@@ -7,7 +7,7 @@
 
 - 🌺 I have contributed to many projects of **React and full stack application.**
 - 💎 I've expanded my horizons in **Data Structures and Algorithms**.
-- 🌺 I’m currently working on  **Andriod Development.**
+- 🌺 I’m currently working on  **Full Stack Development.**
 - 💎 All of my projects are available at **[My Portfolio](https://github.com/MonaMobeen)**
 
 - 👩🏽‍🤝‍👩🏻  I’m looking to collaborate with other content **developers**.
