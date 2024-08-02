@@ -7,13 +7,13 @@
 
 - 🌺 I have contributed to many projects of **React and full stack application.**
 - 💎 I’m broadening my knowledge in **Data Structures and Algorithms** for long-term play.
-- 🌺 I’m currently working on  **Real Time projects.**
+- 🌺 I’m currently working on  **Andriod Development.**
 - 💎 All of my projects are available at **[My Portfolio](https://github.com/MonaMobeen)**
 
 - 👩🏽‍🤝‍👩🏻  I’m looking to collaborate with other content **developers**.
 
 
-- 🌟  Fun factor **I play games and participate in extracurricular activities.**
+- 🌟  Fun factor **I play games and participate in hackathones.**
 
 
 ## Let's connect and build something amazing together!🤩:
