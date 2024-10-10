@@ -23,7 +23,6 @@
 <a href = "https://www.linkedin.com/in/monaamobeen/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/@themonacode"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
 <a href = "https://twitter.com/monaa___88/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/imona.mk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://github.com/MonaMobeen"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "https://dribbble.com/monaamobeen"><img src="https://img.icons8.com/fluent/48/000000/dribbble.png"/></a>
 <a href = "https://www.behance.net/IamMona"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a>
